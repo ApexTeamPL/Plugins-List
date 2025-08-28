@@ -1,0 +1,24 @@
+[
+    {
+        "name": "MoreAlts",
+        "description": "use more than 5 alts at Discord and easily switch between them from chat input.",
+        "authors": [
+            "Win8.1VMUser"
+        ],
+        "status": "working",
+        "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
+        "installUrl": "https://apexteampl.github.io/Apex-Plugins/MoreAlts/",
+        "warningMessage": ""
+    },
+    {
+        "name": "ReadAll",
+        "description": "Read all server and DM notifications with single command - /readall (idea from btmc727)",
+        "authors": [
+            "Win8.1VMUser"
+        ],
+        "status": "working",
+        "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
+        "installUrl": "https://apexteampl.github.io/Apex-Plugins/ReadAll/",
+        "warningMessage": ""
+    }
+]
