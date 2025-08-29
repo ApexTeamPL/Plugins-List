@@ -1,24 +1,13 @@
 [
     {
-        "name": "Written Numbers",
-        "description": "Makes numbers written.",
+        "name": "Local Edit",
+        "description": "Edit messages locally.",
         "authors": [
-            "Kyza"
+            "shipwr3ckd"
         ],
         "status": "working",
-        "sourceUrl": "https://github.com/kyza/vendetta-plugins",
-        "installUrl": "https://kyza.github.io/vendetta-plugins/written-numbers/",
-        "warningMessage": ""
-    },
-    {
-        "name": "petPet",
-        "description": "pet someone P.",
-        "authors": [
-            "Wolfie"
-        ],
-        "status": "working",
-        "sourceUrl": "https://plugins.obamabot.me/vendetta-plugins/petpet",
-        "installUrl": "https://plugins.obamabot.me/vendetta-plugins/petpet/",
+        "sourceUrl": "https://github.com/shipwr3ckd/revengeplugin",
+        "installUrl": "https://shipwr3ckd.github.io/revengeplugin/localedit/",
         "warningMessage": ""
     }
 ]
