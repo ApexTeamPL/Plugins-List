@@ -20,5 +20,17 @@
         "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
         "installUrl": "https://apexteampl.github.io/Apex-Plugins/ReadAll/",
         "warningMessage": ""
+    },
+    {
+        "name": "BetterNSFWGateBypass",
+        "description": "Allows you to access NSFW channels without setting your age.",
+        "authors": [
+            "Win8.1VMUser",
+            "Slara"
+        ],
+        "status": "warning",
+        "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
+        "installUrl": "https://apexteampl.github.io/Apex-Plugins/nsfwbypass/",
+        "warningMessage": "Please read note in Apex-Plugins page!"
     }
 ]
