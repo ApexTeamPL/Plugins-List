@@ -25,8 +25,8 @@
         "name": "BetterNSFWGateBypass",
         "description": "Allows you to access NSFW channels without setting your age.",
         "authors": [
-            "Win8.1VMUser",
-            "Slara"
+            "Slara",
+            "Win8.1VMUser"
         ],
         "status": "warning",
         "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
