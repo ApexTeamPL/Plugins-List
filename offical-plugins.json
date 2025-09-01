@@ -28,9 +28,9 @@
             "Slara",
             "Win8.1VMUser"
         ],
-        "status": "warning",
+        "status": "broken",
         "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
         "installUrl": "https://apexteampl.github.io/Apex-Plugins/nsfwbypass/",
-        "warningMessage": "Please read note in Apex-Plugins page! The age bypass no longer works cuz discord is d*k. Please use any VPN, we can't do anything about it and fk UK govs. But at least now this plugin is fully legal as it bypasses gate only."
+        "warningMessage": "The data has been wiped. We cannot connect to update server. Sorry! Vencore reported status: 'Vencore: Failed to fetch nsfwbypass!'. We cannot do anything about it... I am sorry. In some days I may be able to bring it back but at what cost???"
     }
 ]
