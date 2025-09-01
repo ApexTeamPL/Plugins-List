@@ -20,5 +20,16 @@
         "sourceUrl": "https://github.com/purple-eyez/Plugins-List_Plugin/",
         "installUrl": "https://purple-eyez.github.io/Plugins-List_Plugin/plugins-list/",
         "warningMessage": ""
+    },
+    {
+        "name": "BetterNSFWGateBypass",
+        "description": "Allows you to access NSFW channels without setting your age.",
+        "authors": [
+            "Slara",
+        ],
+        "status": "warning",
+        "sourceUrl": "https://github.com/ApexTeamPL/Apex-Plugins/",
+        "installUrl": "https://apexteampl.github.io/Apex-Plugins/nsfwbypass/",
+        "warningMessage": "Warning: UK bypass doesn't work. Please use any VPN to bypass the age restrictions!"
     }
 ]
