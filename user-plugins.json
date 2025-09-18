@@ -20,5 +20,16 @@
         "sourceUrl": "https://github.com/purple-eyez/Plugins-List_Plugin/",
         "installUrl": "https://purple-eyez.github.io/Plugins-List_Plugin/plugins-list/",
         "warningMessage": ""
+    },
+    {
+        "name": "AntiEd",
+        "description": "Keeps deleted messages and logs edited messages, until you restart/reloads the app.",
+        "authors": [
+            "angelw0lf"
+        ],
+        "status": "working",
+        "sourceUrl": "https://github.com/angelix1/MP",
+        "installUrl": "https://angelix1.github.io/MP/angel/antied/",
+        "warningMessage": "May cause random crashes or slow downs (however should be fixed in 1.4.3)"
     }
 ]
