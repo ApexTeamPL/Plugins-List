@@ -22,6 +22,17 @@
         "warningMessage": ""
     },
     {
+        "name": "NoTrack",
+        "description": "Disable Discord's tracking.",
+        "authors": [
+            "maisy"
+        ],
+        "status": "working",
+        "sourceUrl": "https://github.com/maisymoe/strife",
+        "installUrl": "https://maisymoe.github.io/strife/NoTrack/",
+        "warningMessage": ""
+    },
+    {
         "name": "AntiEd",
         "description": "Keeps deleted messages and logs edited messages, until you restart/reloads the app.",
         "authors": [
