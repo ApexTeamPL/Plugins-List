@@ -47,8 +47,8 @@
         "name": "ViewRaw",
         "description": "View raw message data.",
         "authors": [
-            "sapphire"
-            "Vendicated"
+            "sapphire",
+            "Vendicated",
             "Bwlok"
         ],
         "status": "working",
