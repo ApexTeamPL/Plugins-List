@@ -30,7 +30,7 @@
         "status": "working",
         "sourceUrl": "https://github.com/maisymoe/strife",
         "installUrl": "https://maisymoe.github.io/strife/NoTrack/",
-        "warningMessage": ""
+        "warningMessage": "Added as core plugin in Vencore 1.3.2+ and Kettu 1.2.2+."
     },
     {
         "name": "AntiEd",
@@ -54,6 +54,6 @@
         "status": "working",
         "sourceUrl": "https://github.com/bwlok/revenge-plugins",
         "installUrl": "https://bwlok.github.io/revenge-plugins/ViewRaw/",
-        "warningMessage": "Added as core plugin in Vencore 1.3.2+ and Kettu 1.2.2+."
+        "warningMessage": ""
     }
 ]
