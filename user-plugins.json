@@ -27,13 +27,13 @@
         "authors": [
             "maisy"
         ],
-        "status": "working",
+        "status": "warning",
         "sourceUrl": "https://github.com/maisymoe/strife",
         "installUrl": "https://maisymoe.github.io/strife/NoTrack/",
         "warningMessage": "Added as core plugin in Vencore 1.3.2+ and Kettu 1.2.2+."
     },
     {
-        "name": "AntiEd",
+        "name": "AntiEd (Hug Cute Moodle)",
         "description": "Keeps deleted messages and logs edited messages, until you restart/reloads the app.",
         "authors": [
             "angelw0lf"
@@ -41,7 +41,7 @@
         "status": "working",
         "sourceUrl": "https://github.com/angelix1/MP",
         "installUrl": "https://angelix1.github.io/MP/angel/antied/",
-        "warningMessage": "May cause random crashes or slow downs (however should be fixed in 1.4.3)"
+        "warningMessage": ""
     },
     {
         "name": "ViewRaw",
